@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main>
+    <div>
       <h1>7Set</h1>
-    </main>
+    </div>
   );
 }
