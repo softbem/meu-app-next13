@@ -1,13 +1,13 @@
 import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import './globals.css'
-import Link from 'next/link'
+//port Link from 'next/link'
 import Navbar from './components/Navbar'
 
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: '7Set',
+  title: '7SET - Store',
   description: 'Next.js 13.4.4 + TypeScript + Tailwind CSS',
 }
 
