@@ -39,6 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 npx create-next-app@13 meu-app-next13
 
-aula: tempo - 19:00 /  
+aula: tempo - 47:00 /  
 
 link: https://youtu.be/QFtXT1KMQ1U
