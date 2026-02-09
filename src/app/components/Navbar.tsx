@@ -16,8 +16,8 @@ function Navbar() {
                     <UserButton />
                 </SignedIn>
                 <SignedOut>
-                    <SignInButton >
-                        <button className="rounded-md text-white px-3 py-2 uppercase">FAZER LOGIN</button>
+                    <SignInButton mode="modal">
+                        <button className="rounded-md text-white px-3 py-2 uppercase border">FAZER LOGIN</button>
                     </SignInButton>
 
                 </SignedOut>
