@@ -42,3 +42,9 @@ npx create-next-app@13 meu-app-next13
 aula: tempo - 1:31
 
 link: https://youtu.be/QFtXT1KMQ1U
+
+Prisma : db 
+
+DATABASE_URL="postgres://65c03142bd609ed6c5854dde94f6da426ce1723f2b07df6cabe806fe68f32fa9:sk_a3X39rxn9W8BMM_0z_WX8@db.prisma.io:5432/postgres?sslmode=require"
+POSTGRES_URL="postgres://65c03142bd609ed6c5854dde94f6da426ce1723f2b07df6cabe806fe68f32fa9:sk_a3X39rxn9W8BMM_0z_WX8@db.prisma.io:5432/postgres?sslmode=require"
+PRISMA_DATABASE_URL="prisma+postgres://accelerate.prisma-data.net/?api_key=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqd3RfaWQiOjEsInNlY3VyZV9rZXkiOiJza19hM1gzOXJ4bjlXOEJNTV8wel9XWDgiLCJhcGlfa2V5IjoiMDFLSDJDUTFISEVOQUVER05UUEFQV1ZaMEUiLCJ0ZW5hbnRfaWQiOiI2NWMwMzE0MmJkNjA5ZWQ2YzU4NTRkZGU5NGY2ZGE0MjZjZTE3MjNmMmIwN2RmNmNhYmU4MDZmZTY4ZjMyZmE5IiwiaW50ZXJuYWxfc2VjcmV0IjoiYTkwYTkzODQtYzYzNy00ZDMyLThmNGUtZjI5N2RkNzNhNjQyIn0.TfwtqQhDesB1bGZUvdecLnN5NwzodFhUv_lPgoehuKs"
